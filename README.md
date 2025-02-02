@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https:www.linkedin.com/in/mohammad-hussein-91b678335" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad hussein" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohammad-hussein-91b678335" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad hussein" height="30" width="40" /></a>
 <a href="https://fb.com/mhmd hsein" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mhmd hsein" height="30" width="40" /></a>
 <a href="https://instagram.com/mhmad_h23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mhmad_h23" height="30" width="40" /></a>
 </p>
